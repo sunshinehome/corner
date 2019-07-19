@@ -1,3 +1,7 @@
+
+ICDAR2019任务3: 发票比赛端到端识别比赛冠军
+技术方案：Corner + CRNN
+
 This is the official implementation of "Multi-Oriented Scene Text Detection via Corner Localization and Region Segmentation".
 
 For more details, please refer to our [paper](https://arxiv.org/abs/1802.08948). 
